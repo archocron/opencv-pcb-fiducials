@@ -7,3 +7,4 @@ Import the image you want to analize
 ```python
   image = cv2.imread('images/rpi_fiducials.jpg')
 ```
+![alt text]([http://url/to/img.png](https://github.com/archocron/opencv-pcb-fiducials/blob/main/images/rpi.jpg)
