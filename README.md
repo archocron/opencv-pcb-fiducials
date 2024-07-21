@@ -1,5 +1,5 @@
 # opencv-pcb-fiducials
-Python project using OpenCV to detect fiducials and rotate to the correct angle and cutoff. To be applicated in combination with visual inspection projects.
+Python project using OpenCV to detect fiducials and rotate to the correct angle and crop. To be applicated in combination with visual inspection projects.
 
 # how to use it ?
 
@@ -11,7 +11,7 @@ Introducing an image like this ...
 
 ![alt text](https://github.com/archocron/opencv-pcb-fiducials/blob/main/images/rpi_raw.jpg?raw=true)
 
-You can get through all steps, the rotated and cropped image, this is valid to perform after this transformation a visual inspection of any kind.
+You can get through all steps, the rotated and cropped image, this is valid to perform after this transformation a visual inspection for example.
 
 ![alt text](https://github.com/archocron/opencv-pcb-fiducials/blob/main/images/rpi_result.jpg?raw=true)
 
