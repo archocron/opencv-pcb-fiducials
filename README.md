@@ -5,14 +5,14 @@ Python project using OpenCV to detect fiducials and rotate to the correct angle 
 
 First config all constants to adapt to your use case. Can be used with fiducials marks and also any kind of pattern like holes. Foe instance in this use case 
 
-EXTERNAL_DIAMETER = 160
-INTERNAL_DIAMETER = 88
-EXTERNAL_COLOR = 100
-INTERNAL_COLOR = 240
-MAX_MATCHS = 3
-ANGLE_BETWEEN_MOST_SEPARATED_POINTS = 42.95
-DISTANCE_TOP_LEFT_CORNER = (1260,490)
-DISTANCE_BOTTOM_RIGHT_CORNER = (970,318)
+EXTERNAL_DIAMETER = 160<br>
+INTERNAL_DIAMETER = 88<br>
+EXTERNAL_COLOR = 100<br>
+INTERNAL_COLOR = 240<br>
+MAX_MATCHS = 3<br>
+ANGLE_BETWEEN_MOST_SEPARATED_POINTS = 42.95<br>
+DISTANCE_TOP_LEFT_CORNER = (1260,490)<br>
+DISTANCE_BOTTOM_RIGHT_CORNER = (970,318)<br>
 
 ![alt text](https://github.com/archocron/opencv-pcb-fiducials/blob/main/images/rpi_parameters.jpg?raw=true)
 
