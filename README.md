@@ -7,14 +7,13 @@ First config all constants to adapt to your use case. Can be used with fiducials
 
 ![alt text](https://github.com/archocron/opencv-pcb-fiducials/blob/main/images/rpi_parameters.jpg?raw=true)
 
-## Introducing an image like this
+Introducing an image like this ...
 
 ![alt text](https://github.com/archocron/opencv-pcb-fiducials/blob/main/images/rpi_raw.jpg?raw=true)
 
-## You can get through all steps, the rotated and cropped image, this is valid to perform after this transformation a visual inspection of any kind.
+You can get through all steps, the rotated and cropped image, this is valid to perform after this transformation a visual inspection of any kind.
 
 ![alt text](https://github.com/archocron/opencv-pcb-fiducials/blob/main/images/rpi_result.jpg?raw=true)
-
 
 ## Image Attribution
 
