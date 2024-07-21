@@ -5,7 +5,7 @@ Python project using OpenCV to detect fiducials and rotate to the correct angle 
 
 First config all constants to adapt to your use case. Can be used with fiducials marks and also any kind of pattern like holes. Foe instance in this use case 
 
-EXTERNAL_DIAMETER = 160 
+EXTERNAL_DIAMETER = 160
 INTERNAL_DIAMETER = 88
 EXTERNAL_COLOR = 100
 INTERNAL_COLOR = 240
