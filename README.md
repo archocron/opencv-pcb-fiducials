@@ -6,21 +6,6 @@ Python project using OpenCV to detect fiducials and rotate to the correct angle 
 First config all constants to adapt to your use case. Can be used with fiducials marks and also any kind of pattern like holes. 
 
 ![alt text](https://github.com/archocron/opencv-pcb-fiducials/blob/main/images/rpi_parameters.jpg?raw=true)
-Import the image you want to analize
-```python
-  image = cv2.imread('images/rpi_fiducials.jpg')
-```
-Introducing an image like this
-
-```python
-  image = cv2.imread('images/rpi_raw.jpg')
-```
-
-You can get through all steps, the rotated and cropped image, this is valid to perform after this transformation a visual inspection of any kind.
-
-```python
-  image = cv2.imread('images/rpi_result.jpg')
-```
 
 
 ## Image Attribution
